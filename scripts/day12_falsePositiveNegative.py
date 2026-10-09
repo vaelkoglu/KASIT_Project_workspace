@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from torch.utils.data import DataLoader, Subset
 import sys
 
-# 1. Bilgisayarınızın gerçek yollarını ayarlama (Masaüstü yolları)
+
 sys.path.append(r'C:\Users\acer5\OneDrive\Desktop\kaist-project\scripts')
 
 data_root = r"C:\Users\acer5\OneDrive\Desktop\kaist-project\data\kaist-cvpr15"
@@ -45,8 +45,8 @@ def analyze_failures(model, loader, device, max_failures=20):
                 pred_boxes = out['boxes'].cpu().numpy()
                 scores = out['scores'].cpu().numpy()
 
-                # Tahminleri filtreleme (Threshold = 0.5)
-                valid_preds = pred_boxes[scores > 0.5]
+                # Tahminleri filtreleme (Threshold = 0.5 or 0.3)scores > 0.5. هذا يعني أن النموذج لا يرسم المربع إلا إذا كان متأكداً بنسبة 50%. إ
+                valid_preds = pred_boxes[scores > 0.3]
 
                 # 1. Yanlış Negatif (FN): Gerçekte bir yaya var ama model tahmin edemedi
                 if len(gt_boxes) > 0 and len(valid_preds) == 0:
@@ -55,7 +55,6 @@ def analyze_failures(model, loader, device, max_failures=20):
                 # 2. Yanlış Pozitif (FP): Model boş bir alanda yaya olduğunu sanıyor
                 elif len(gt_boxes) == 0 and len(valid_preds) > 0:
                     fp_cases.append((img_disp, gt_boxes, valid_preds))
-
     return fp_cases, fn_cases
 
 
@@ -100,10 +99,10 @@ if __name__ == "__main__":
     test_ds = KAISTPedestrianDataset(data_root, split="test", only_reasonable=True)
 
     # ---------------------------------------------------------
-    # المشكلة 2 تم حلها: اختيار 1000 صورة عشوائياً لضمان تنوع الليل والنهار
+    # اختيار 2000 صورة عشوائياً لضمان تنوع الليل والنهار
     # ---------------------------------------------------------
     total_images = len(test_ds)
-    sample_size = min(1000, total_images)
+    sample_size = min(2000, total_images)
     random_indices = random.sample(range(total_images), sample_size)
     test_ds = Subset(test_ds, random_indices)
 

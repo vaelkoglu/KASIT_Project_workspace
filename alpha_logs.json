@@ -1,0 +1,4802 @@
+[
+    {
+        "frame_id": "set06/V003/I03259",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V001/I00539",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 16
+    },
+    {
+        "frame_id": "set08/V000/I01459",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set07/V002/I00579",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I02799",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I01279",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I02519",
+        "day_night": "day",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V001/I01179",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I01259",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I01979",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I01099",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I00939",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I01799",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I02419",
+        "day_night": "day",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I03559",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I04099",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set06/V001/I00659",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I00799",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V001/I01159",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I01779",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set07/V001/I02559",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I04199",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V000/I01719",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set06/V000/I00539",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I00119",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I02039",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I01279",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 7
+    },
+    {
+        "frame_id": "set08/V000/I01699",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set06/V004/I02579",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I02139",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I00979",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set06/V003/I02499",
+        "day_night": "day",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I01719",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I02039",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I02059",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set09/V000/I00319",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I01579",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I00599",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I02039",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I00339",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set11/V001/I00439",
+        "day_night": "night",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I00079",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set09/V000/I01919",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I00579",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I00379",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I00539",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I00259",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V002/I01499",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I02239",
+        "day_night": "day",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I03179",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V001/I00079",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I00659",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set07/V001/I03579",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V003/I02399",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V001/I00879",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set11/V001/I00999",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I04559",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I00799",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I00379",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I01239",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set09/V000/I00019",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I01679",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I00799",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 11
+    },
+    {
+        "frame_id": "set06/V002/I01659",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I01059",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V002/I00559",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I00439",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I00579",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I01999",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V000/I01039",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I02499",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I02939",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 13
+    },
+    {
+        "frame_id": "set06/V002/I00399",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I03279",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I01119",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I02219",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 17
+    },
+    {
+        "frame_id": "set10/V000/I00279",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I00859",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 19
+    },
+    {
+        "frame_id": "set06/V002/I01239",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I01799",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I02139",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 20
+    },
+    {
+        "frame_id": "set07/V001/I01919",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set10/V001/I03599",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I03319",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set10/V001/I00299",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set06/V004/I01559",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V000/I00619",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set11/V001/I01439",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V002/I00719",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set08/V000/I00459",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set10/V000/I02499",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I00119",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set09/V000/I00559",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I02479",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V004/I01179",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V000/I00279",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 8
+    },
+    {
+        "frame_id": "set10/V001/I03139",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I01579",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set06/V001/I02339",
+        "day_night": "day",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I03119",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V004/I02379",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V000/I00159",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I01999",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V002/I01019",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I02439",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set09/V000/I02179",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I01059",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V002/I01099",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V000/I00959",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I03519",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set08/V000/I00779",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 10
+    },
+    {
+        "frame_id": "set11/V001/I01019",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 7
+    },
+    {
+        "frame_id": "set11/V001/I01539",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I00419",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I03019",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I02799",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I04579",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V000/I00279",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V000/I00499",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I03719",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I01679",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 8
+    },
+    {
+        "frame_id": "set11/V000/I00119",
+        "day_night": "night",
+        "alpha": 0.5164,
+        "detected_pedestrians": 15
+    },
+    {
+        "frame_id": "set06/V003/I02839",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set08/V001/I00819",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set11/V000/I01139",
+        "day_night": "night",
+        "alpha": 0.5164,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set11/V001/I01199",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V000/I01559",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 6
+    },
+    {
+        "frame_id": "set09/V000/I01539",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I00279",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V000/I00059",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V001/I02919",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 7
+    },
+    {
+        "frame_id": "set10/V001/I02739",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V001/I00079",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V003/I03299",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I00639",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I01559",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V002/I00119",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V002/I00559",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V002/I00239",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V001/I00679",
+        "day_night": "night",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I01139",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I02519",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V002/I01479",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I00159",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set06/V004/I00359",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I01639",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set07/V000/I00579",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I00639",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 11
+    },
+    {
+        "frame_id": "set10/V000/I02079",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I01859",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set07/V001/I00979",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I01899",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 12
+    },
+    {
+        "frame_id": "set10/V000/I00099",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set09/V000/I01499",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I03299",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V000/I04399",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I04039",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V002/I00819",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I02919",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V002/I01059",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set08/V002/I01099",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V001/I00219",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set07/V001/I03359",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set11/V001/I01139",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V000/I00599",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V002/I01619",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V002/I00639",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I03259",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V002/I01339",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I01059",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I00479",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 9
+    },
+    {
+        "frame_id": "set11/V000/I00259",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 6
+    },
+    {
+        "frame_id": "set07/V001/I03999",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I01739",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set10/V001/I02479",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I02059",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I00679",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I01439",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V002/I00419",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I01459",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V000/I00759",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I00099",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I01859",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I02079",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V000/I02719",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I02439",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V000/I02099",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I01079",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set10/V001/I00959",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V002/I00239",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I02199",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V002/I00779",
+        "day_night": "day",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I00399",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I01199",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 7
+    },
+    {
+        "frame_id": "set06/V003/I03079",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set07/V002/I00879",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set07/V001/I00199",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I04119",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set10/V000/I04159",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I01339",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V001/I01359",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V000/I02079",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set11/V000/I00099",
+        "day_night": "night",
+        "alpha": 0.5164,
+        "detected_pedestrians": 10
+    },
+    {
+        "frame_id": "set10/V001/I00599",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V002/I00979",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set10/V000/I03219",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I00519",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I01579",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set07/V001/I02659",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I00499",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I02699",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I02479",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I01479",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set06/V001/I02499",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I00559",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 9
+    },
+    {
+        "frame_id": "set08/V002/I00119",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 11
+    },
+    {
+        "frame_id": "set08/V000/I01079",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set10/V000/I01659",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V000/I00619",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I02399",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I02319",
+        "day_night": "day",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I00659",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I01779",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V000/I02179",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I03819",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I00939",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set07/V001/I01159",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V002/I00399",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V002/I00219",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V003/I02879",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set10/V000/I02819",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I00939",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I04379",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I00899",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I00879",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I00039",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V000/I00099",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I00499",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I00719",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I03319",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set09/V000/I03019",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I03059",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I03139",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set06/V004/I01539",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set07/V001/I01839",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I01939",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set10/V001/I01919",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I00839",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set09/V000/I02999",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V001/I00739",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I00519",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 8
+    },
+    {
+        "frame_id": "set09/V000/I00339",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V002/I00439",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I00479",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I01899",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set06/V004/I01999",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I03039",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V001/I02379",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I00879",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I00099",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I01039",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set08/V000/I01139",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 6
+    },
+    {
+        "frame_id": "set06/V001/I00979",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V000/I01019",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 9
+    },
+    {
+        "frame_id": "set06/V004/I02699",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I00839",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V001/I01519",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I00299",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V002/I00039",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V000/I01419",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set10/V001/I00359",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V000/I02339",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I00679",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set11/V000/I00779",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 7
+    },
+    {
+        "frame_id": "set06/V001/I00819",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I02059",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V002/I01319",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 9
+    },
+    {
+        "frame_id": "set06/V001/I01779",
+        "day_night": "day",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I02279",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I01739",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I01299",
+        "day_night": "day",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I00739",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set06/V001/I01279",
+        "day_night": "day",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I01059",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 9
+    },
+    {
+        "frame_id": "set10/V001/I04059",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I03759",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I01039",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V002/I00719",
+        "day_night": "day",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I01279",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I03879",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 9
+    },
+    {
+        "frame_id": "set08/V000/I02259",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set06/V003/I04219",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V001/I00539",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V001/I00719",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set06/V001/I00119",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I01739",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 11
+    },
+    {
+        "frame_id": "set06/V001/I01839",
+        "day_night": "day",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V001/I00319",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set08/V002/I00339",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 8
+    },
+    {
+        "frame_id": "set08/V001/I00279",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V000/I02079",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set08/V000/I00339",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set11/V000/I01259",
+        "day_night": "night",
+        "alpha": 0.5164,
+        "detected_pedestrians": 17
+    },
+    {
+        "frame_id": "set10/V001/I00999",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I00539",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V001/I00919",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V002/I00839",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set09/V000/I00239",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I02719",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I03899",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I02979",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I00719",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V002/I01179",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I00919",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set08/V001/I02799",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 26
+    },
+    {
+        "frame_id": "set06/V004/I02139",
+        "day_night": "day",
+        "alpha": 0.5162,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I03239",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I01699",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set10/V001/I00759",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I01699",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I01039",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V001/I01459",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V000/I00399",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set11/V001/I00079",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set08/V001/I01819",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set08/V000/I01999",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set06/V001/I02579",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I01499",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I00959",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set06/V003/I02859",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set07/V002/I01239",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I01539",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V000/I01999",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I00939",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I01339",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I03499",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 12
+    },
+    {
+        "frame_id": "set10/V001/I02139",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I03419",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V003/I04139",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I02179",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 10
+    },
+    {
+        "frame_id": "set06/V004/I01519",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V003/I00599",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set07/V001/I02459",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V000/I01559",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I01179",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set08/V002/I02219",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I02239",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I01419",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I00459",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I00199",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set11/V001/I00799",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V000/I00339",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I00759",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V000/I00879",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I01639",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 9
+    },
+    {
+        "frame_id": "set06/V004/I02119",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V002/I00579",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 6
+    },
+    {
+        "frame_id": "set06/V002/I00059",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I03379",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set06/V002/I01319",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set11/V000/I00039",
+        "day_night": "night",
+        "alpha": 0.5164,
+        "detected_pedestrians": 12
+    },
+    {
+        "frame_id": "set06/V002/I00539",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I03859",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set06/V002/I00199",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set09/V000/I01319",
+        "day_night": "night",
+        "alpha": 0.5157,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V000/I01599",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 6
+    },
+    {
+        "frame_id": "set06/V003/I00499",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I00999",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I01399",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V001/I01139",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I02759",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set09/V000/I00299",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I01099",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I02459",
+        "day_night": "day",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I01559",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V001/I02339",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 9
+    },
+    {
+        "frame_id": "set10/V001/I02319",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I00659",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V002/I01219",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V002/I00519",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I00139",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V000/I04499",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I04599",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I02059",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I00579",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 7
+    },
+    {
+        "frame_id": "set06/V001/I02279",
+        "day_night": "day",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I02359",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 11
+    },
+    {
+        "frame_id": "set11/V000/I00579",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 9
+    },
+    {
+        "frame_id": "set10/V000/I01379",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V000/I01679",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I00299",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V000/I00159",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I00719",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set09/V000/I02499",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set06/V002/I01159",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I02459",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 30
+    },
+    {
+        "frame_id": "set06/V004/I00579",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I00739",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set09/V000/I01279",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I02599",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I01519",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set08/V002/I02319",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I02019",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I01899",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 9
+    },
+    {
+        "frame_id": "set10/V001/I01299",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V001/I00099",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set11/V000/I01919",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V000/I03579",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 6
+    },
+    {
+        "frame_id": "set08/V002/I01719",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V003/I00239",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set08/V000/I01279",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V000/I01479",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V000/I01599",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I03979",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I00219",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V000/I01559",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 12
+    },
+    {
+        "frame_id": "set06/V003/I00199",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I02119",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V002/I01039",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I00199",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set06/V004/I02479",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I01979",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I00019",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set10/V000/I02659",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I01859",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V000/I01699",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I02739",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set08/V002/I01339",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 7
+    },
+    {
+        "frame_id": "set11/V001/I00719",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I00719",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V002/I00019",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I01539",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set09/V000/I02859",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I01859",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 17
+    },
+    {
+        "frame_id": "set10/V000/I03619",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 6
+    },
+    {
+        "frame_id": "set10/V000/I03239",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V001/I03219",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I01799",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 8
+    },
+    {
+        "frame_id": "set09/V000/I01599",
+        "day_night": "night",
+        "alpha": 0.5157,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I00459",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V001/I03259",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set11/V000/I01639",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I00779",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set10/V000/I00179",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I00619",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I01379",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set10/V000/I03519",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 9
+    },
+    {
+        "frame_id": "set07/V001/I01399",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V000/I01019",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I01479",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set09/V000/I01079",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I00659",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I02959",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I01379",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I00259",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I01619",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V000/I02799",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I01019",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set10/V000/I03559",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 7
+    },
+    {
+        "frame_id": "set06/V004/I00019",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I00779",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set11/V001/I00519",
+        "day_night": "night",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I03159",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set08/V002/I02139",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V001/I03959",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I00179",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V000/I00919",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 14
+    },
+    {
+        "frame_id": "set10/V000/I02579",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I03779",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V003/I03239",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I02299",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set10/V000/I00859",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V000/I00319",
+        "day_night": "night",
+        "alpha": 0.5164,
+        "detected_pedestrians": 22
+    },
+    {
+        "frame_id": "set07/V000/I01379",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I02359",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V000/I01019",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set09/V000/I03479",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V003/I03459",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set11/V000/I01319",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 7
+    },
+    {
+        "frame_id": "set06/V000/I00979",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I00439",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 8
+    },
+    {
+        "frame_id": "set06/V003/I02039",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set07/V001/I00839",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I00499",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I01259",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I01339",
+        "day_night": "day",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I02579",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set11/V000/I01819",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set07/V000/I01439",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V001/I02639",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 36
+    },
+    {
+        "frame_id": "set07/V002/I01379",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set07/V001/I00879",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I01239",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 8
+    },
+    {
+        "frame_id": "set10/V000/I01959",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I00899",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 9
+    },
+    {
+        "frame_id": "set07/V000/I00619",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V000/I01139",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set10/V001/I03619",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I01659",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I01439",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I00159",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I01119",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I00059",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V002/I00259",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I00799",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set07/V001/I02299",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V000/I01199",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I00759",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I03119",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set10/V001/I02459",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I02379",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V001/I01199",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V002/I01459",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V000/I01759",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set07/V001/I00279",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I02539",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set06/V003/I01919",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set06/V004/I00279",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V000/I04639",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I04039",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V000/I02239",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V000/I00079",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I00219",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I00439",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I00979",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 8
+    },
+    {
+        "frame_id": "set08/V002/I01539",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 19
+    },
+    {
+        "frame_id": "set09/V000/I00379",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I01299",
+        "day_night": "night",
+        "alpha": 0.5157,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I01099",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V002/I00879",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set10/V001/I03939",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set07/V000/I01959",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I02179",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 6
+    },
+    {
+        "frame_id": "set06/V001/I01359",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I00619",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set11/V000/I00639",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set11/V000/I00539",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 9
+    },
+    {
+        "frame_id": "set10/V000/I02259",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I00619",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V002/I00919",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I00399",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I02159",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V002/I01279",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 11
+    },
+    {
+        "frame_id": "set06/V004/I02519",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I00499",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I01239",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set07/V000/I00419",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 8
+    },
+    {
+        "frame_id": "set07/V001/I00999",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I01959",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set06/V004/I01959",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I02959",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V000/I01499",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set06/V003/I01979",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set07/V001/I01739",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V002/I00639",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V001/I03039",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V002/I01159",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 7
+    },
+    {
+        "frame_id": "set09/V000/I01559",
+        "day_night": "night",
+        "alpha": 0.5157,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V001/I01379",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I01579",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set08/V000/I02239",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set06/V004/I02179",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I01139",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I01379",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set06/V000/I00019",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V004/I02299",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V004/I01599",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V000/I03919",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set10/V000/I04099",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I03099",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I00119",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I01219",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set08/V002/I00219",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 8
+    },
+    {
+        "frame_id": "set07/V000/I00239",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V001/I01259",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I04459",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I02619",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I01079",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 6
+    },
+    {
+        "frame_id": "set10/V001/I03159",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V002/I01439",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I03899",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I03419",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set10/V000/I03999",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I01059",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V003/I01079",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I00399",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 8
+    },
+    {
+        "frame_id": "set06/V001/I01959",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I01479",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V000/I00039",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set08/V002/I00599",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I02299",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 13
+    },
+    {
+        "frame_id": "set10/V001/I01839",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V000/I00779",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I03339",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I01679",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I02039",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I00959",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set06/V004/I02559",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I03339",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I03739",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I02279",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set06/V003/I00159",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I03479",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 11
+    },
+    {
+        "frame_id": "set06/V001/I00379",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 10
+    },
+    {
+        "frame_id": "set06/V003/I04159",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I03979",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I01399",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set09/V000/I02379",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set06/V001/I01479",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I03159",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I01479",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set08/V001/I02159",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 21
+    },
+    {
+        "frame_id": "set08/V000/I02499",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set06/V003/I02099",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I02719",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V001/I02839",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set07/V001/I00239",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V002/I00759",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set10/V000/I02619",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I04119",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I00179",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I00279",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 15
+    },
+    {
+        "frame_id": "set11/V001/I00819",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set06/V000/I00239",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I01659",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I02459",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set06/V002/I00179",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set09/V000/I02799",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V000/I01939",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V003/I03099",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set06/V003/I01339",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I01919",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set08/V000/I00139",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I03539",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I02419",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V000/I01759",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set06/V004/I00059",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set10/V001/I03919",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I03199",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V002/I01279",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I03279",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I00699",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I02299",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I01819",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I00759",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set07/V000/I00039",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set09/V000/I01839",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I02639",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I01459",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I01919",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V002/I01179",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I01979",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I01179",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set07/V001/I02779",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I00639",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set09/V000/I01379",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set07/V001/I03959",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I02939",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I00459",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I01359",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V003/I04259",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I02479",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 26
+    },
+    {
+        "frame_id": "set06/V004/I01199",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I02279",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I00279",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V002/I00359",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set08/V001/I02039",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 11
+    },
+    {
+        "frame_id": "set06/V003/I03919",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V004/I01099",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I02519",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I01659",
+        "day_night": "day",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I00139",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set11/V000/I01859",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set06/V003/I03739",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I00979",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set07/V000/I00799",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I00139",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I01059",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I01799",
+        "day_night": "day",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V000/I00719",
+        "day_night": "night",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I00299",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set06/V003/I03599",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set10/V001/I03819",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I01839",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 8
+    },
+    {
+        "frame_id": "set06/V003/I00379",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I02339",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set06/V003/I02899",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set11/V001/I00059",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I01499",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I01199",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I00599",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I01159",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 7
+    },
+    {
+        "frame_id": "set07/V001/I03599",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set07/V001/I01539",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set06/V001/I01039",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I02599",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set07/V001/I01719",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I00459",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I03359",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I01899",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set06/V000/I00819",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I02519",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set10/V001/I03799",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I02599",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V000/I00259",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I01459",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V004/I02079",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V001/I03299",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set07/V001/I00479",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I01799",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I03099",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I01519",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I00999",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V000/I01299",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V001/I01079",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set06/V003/I03159",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V002/I00499",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V000/I01579",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set06/V004/I01019",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I02359",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I03199",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V000/I01199",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I00439",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I00819",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I00799",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V002/I01219",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 9
+    },
+    {
+        "frame_id": "set07/V001/I01079",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I00579",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I00899",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set07/V001/I03659",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I04079",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I01859",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 17
+    },
+    {
+        "frame_id": "set11/V001/I00299",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V000/I01119",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set07/V001/I00639",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I00619",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set08/V000/I02039",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set08/V002/I00559",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 7
+    },
+    {
+        "frame_id": "set10/V000/I04479",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V001/I01919",
+        "day_night": "day",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I02699",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 42
+    },
+    {
+        "frame_id": "set11/V000/I00059",
+        "day_night": "night",
+        "alpha": 0.5164,
+        "detected_pedestrians": 9
+    },
+    {
+        "frame_id": "set06/V002/I01359",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V001/I03419",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V000/I01619",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set09/V000/I03259",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V004/I00499",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I01339",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I00459",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I02799",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V001/I02899",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set11/V001/I00219",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set07/V000/I00879",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I02759",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I01239",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V001/I01779",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set06/V004/I00179",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set10/V001/I01819",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V000/I03079",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V000/I00799",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V000/I01019",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set06/V001/I00619",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I02979",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I03319",
+        "day_night": "day",
+        "alpha": 0.5167,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I00039",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 12
+    },
+    {
+        "frame_id": "set10/V001/I01019",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I00099",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set06/V001/I00139",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V000/I01279",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I02739",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I03039",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V000/I00839",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I01259",
+        "day_night": "night",
+        "alpha": 0.516,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I02259",
+        "day_night": "night",
+        "alpha": 0.5158,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I01559",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V002/I00979",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I00839",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I03339",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 6
+    },
+    {
+        "frame_id": "set06/V002/I00499",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set09/V000/I01219",
+        "day_night": "night",
+        "alpha": 0.5159,
+        "detected_pedestrians": 4
+    },
+    {
+        "frame_id": "set06/V003/I03059",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set10/V000/I00959",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V002/I02059",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 5
+    },
+    {
+        "frame_id": "set06/V004/I00339",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set07/V000/I02159",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 3
+    },
+    {
+        "frame_id": "set06/V003/I00999",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set08/V001/I01179",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set08/V001/I01239",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set10/V000/I03399",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I00839",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I02599",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I03159",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V001/I01899",
+        "day_night": "night",
+        "alpha": 0.5161,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V000/I01059",
+        "day_night": "day",
+        "alpha": 0.5165,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V004/I02619",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set11/V001/I00699",
+        "day_night": "night",
+        "alpha": 0.5163,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set10/V000/I01319",
+        "day_night": "night",
+        "alpha": 0.5162,
+        "detected_pedestrians": 1
+    },
+    {
+        "frame_id": "set07/V000/I02419",
+        "day_night": "day",
+        "alpha": 0.5164,
+        "detected_pedestrians": 2
+    },
+    {
+        "frame_id": "set07/V001/I00759",
+        "day_night": "day",
+        "alpha": 0.5166,
+        "detected_pedestrians": 0
+    },
+    {
+        "frame_id": "set06/V003/I02259",
+        "day_night": "day",
+        "alpha": 0.5163,
+        "detected_pedestrians": 2
+    }
+]

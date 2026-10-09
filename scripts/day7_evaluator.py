@@ -125,7 +125,7 @@ def match_detections(detections, eval_boxes, ignore_boxes, iou_thresh=0.5):
 # 4. Tum dataset uzerinde MR-FPPI egrisi + log-average miss rate
 # ---------------------------------------------------------------------------
 
-def evaluate_dataset(all_detections, all_eval_boxes, all_ignore_boxes, num_images, iou_thresh=0.5):
+def evaluate_dataset(all_detections, all_eval_boxes, all_ignore_boxes, num_images, iou_thresh=0.5, max_thresholds=200):
     """
     all_detections   : liste (goruntu basina) [(box, score), ...]
     all_eval_boxes   : liste (goruntu basina) [box, ...]  (Reasonable ground truth)
@@ -137,10 +137,22 @@ def evaluate_dataset(all_detections, all_eval_boxes, all_ignore_boxes, num_image
     total_gt = sum(len(b) for b in all_eval_boxes)
 
     # Tum detection skorlarini topla, esik adaylari olarak kullan
-    all_scores = sorted(set(s for dets in all_detections for _, s in dets), reverse=True)
-    if not all_scores:
+    all_scores_full = sorted(set(s for dets in all_detections for _, s in dets), reverse=True)
+    if not all_scores_full:
         print("UYARI: hic detection yok, MR-FPPI hesaplanamiyor.")
         return None
+
+    # ONEMLI PERFORMANS DUZELTMESI: her benzersiz skoru ayri esik olarak
+    # denemek (ozellikle binlerce farkli skor varsa - orn. tam boyutlu 2252
+    # goruntuluk test setinde) hesaplamayi COK yavaslatir (O(num_thresholds x
+    # num_images x num_detections) buyuklugunde - saatler surebilir). MR^-2
+    # zaten sadece 9 log-araliklikli FPPI noktasina ihtiyac duydugu icin, en
+    # fazla max_thresholds tane esit araliklanmis esik pratikte yeterlidir.
+    if len(all_scores_full) > max_thresholds:
+        idx = sorted(set(np.linspace(0, len(all_scores_full) - 1, max_thresholds).astype(int)))
+        all_scores = [all_scores_full[i] for i in idx]
+    else:
+        all_scores = all_scores_full
 
     fppi_list, mr_list = [], []
 
