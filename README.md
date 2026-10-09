@@ -47,4 +47,4 @@ The project was structured across a comprehensive 25-day development roadmap:
 - NumPy, Matplotlib, Pillow, OpenCV
 
 ---
-*Developed as part of the Summer Internship Program.* ا
+*Developed as part of the Summer Internship Program.* 
